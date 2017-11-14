@@ -69,5 +69,4 @@ class LogParser
       end
   end
 end
-LogParser.new(ARGV[0]).parse unless ARGV[0].nil?
 

@@ -30,7 +30,7 @@ b. Returns the following:
 
 
 ## How to Run
-  ruby log_parser.rb webserver.log
+  ruby parser.rb webserver.log
 
 ## How to Test
   ruby log_parser_test.rb
